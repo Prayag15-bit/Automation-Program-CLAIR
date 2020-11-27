@@ -19,11 +19,13 @@ Make sure that all the modules are available in your system. If you are using An
 1. First make sure you have *git* installed in your system. Confirm using :-
  *git --version*
  
+ If you don't have git installed in your system, you can download and install git using the link :- https://git-scm.com/downloads
+ 
 2. Now, create an empty directory/folder in your system. You can do this either manually or can use the command :-
- *mkdir <location_where_you_want_to_create_the_folder>/<Folder_name>*
+ *mkdir C:\Users\hp\Desktop\SIP-code>*
  
 3. Open your CMD prompt, and go inside the folder by :- 
-  *cd <full_location_of_your_created_folder>*
+  *cd C:\Users\hp\Desktop\SIP-code>*
   
 4. Use the command to clone the code :-
 *git clone https://github.com/Prayag15-bit/SIP_task1.git*
