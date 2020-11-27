@@ -29,6 +29,6 @@ Make sure that all the modules are available in your system. If you are using An
 *git clone https://github.com/Prayag15-bit/SIP_task1.git*
  
 5. Now, just use the python Interpreter to execute the program :-
- *python <file_name>.py*
+ *python clair.py*
  
 # BOOM!! The code will start executing
