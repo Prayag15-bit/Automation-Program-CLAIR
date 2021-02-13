@@ -8,13 +8,6 @@ Hello everyone, this repository contains a MENU DRIVEN PYTHON CODE that will tak
 3. time (To give delays between interfaces)
 4. pyttsx3 (To give audio as output)
 
-# Pre-requisites to be fulfilled :-
-Make sure that all the modules are available in your system. If you are using Anaconda to run the Python Interpreter, then you can confirm the installation of these modules from the following commands:-
-1. *pip/conda install getpass*
-2. *pip/conda install os*
-3. *pip/conda install time*
-4. *pip/conda install pyttsx3*
-
 # How to use the code :-
 1. First make sure you have *git* installed in your system. Confirm using :-
  *git --version*
@@ -29,8 +22,11 @@ Make sure that all the modules are available in your system. If you are using An
   
 4. Use the command to clone the code :-
 *git clone https://github.com/Prayag15-bit/SIP_task1.git*
+
+5. Use the following command :-
+*pip3 -r requirements.txt*
  
-5. Now, just use the python Interpreter to execute the program :-
+6. Now, just use the python Interpreter to execute the program :-
  *python clair.py*
  
 # BOOM!! The code will start executing
