@@ -12,7 +12,7 @@ Hello everyone, this repository contains a MENU DRIVEN PYTHON CODE that will tak
 1. First make sure you have *git* installed in your system. Confirm using :-
  *git --version*
  
- If you don't have git installed in your system, you can download and install git using the link :- https://git-scm.com/downloads
+          If you don't have git installed in your system, you can download and install git using the link :- https://git-scm.com/downloads
  
 2. Now, create an empty directory/folder in your system. You can do this either manually or can use the command :-
  *mkdir C:\Users\hp\Desktop\SIP-code>*
